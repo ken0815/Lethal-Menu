@@ -7,4 +7,3 @@ download the menu open up the file after extracting it open inject.bat make sure
 ![20250222183939_1](https://github.com/user-attachments/assets/55fd96c4-aec9-47b7-bf30-8a6d0516be53)
 ![20250222183937_1](https://github.com/user-attachments/assets/dfe2af88-d339-4ece-a118-7f65258642e2)
 ![20250222183936_1](https://github.com/user-attachments/assets/bed026f8-5f18-4a9b-a487-acccd2e79c5f)
-![20250222184132_1](https://github.com/user-attachments/assets/716c6527-de54-4592-a958-e4d8accf4a76)
