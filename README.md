@@ -1,4 +1,4 @@
-download the menu open up the file after extracting it open inject.bat make sure your game is runing, this mod menu is for lethal company here are some images
+download the menu open up the file after extracting it open inject.bat make sure your game is runing, this mod menu is for lethal company here are some images insert to open the menu.
 ![20250222184132_1](https://github.com/user-attachments/assets/e4be141f-d819-4549-807d-90e3a999a90a)
 ![20250222183948_1](https://github.com/user-attachments/assets/7e96020a-4f94-4d32-a1c6-102d4ea183bf)
 ![20250222183946_1](https://github.com/user-attachments/assets/10169b9d-9971-4e84-be99-8521b89eea7b)
